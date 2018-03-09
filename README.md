@@ -5,10 +5,13 @@ Reprocessing Example - Perlin Noise Flow Field
 
 This is the [Coding Challenge #24: Perlin Noise Flow Field](https://www.youtube.com/watch?v=BjoM9oKOAKY) written in Reasonml + Reprocessing.
 
+![Screenshot](https://user-images.githubusercontent.com/212829/37218471-65c28e26-2375-11e8-9348-3164aac43d0c.png)
+
 ## Controls
 
-* *G*: Toggle grid view on and off
-* *C*: Toggle drawing with colors
+* **G**: Toggle grid view on and off
+* **C**: Toggle drawing with colors
+* **R**: Restart the particles and generate a new field
 
 ## How to
 ```
